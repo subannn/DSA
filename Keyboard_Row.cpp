@@ -1,5 +1,5 @@
 class Solution {
-public:             /// Faster than 100% cpp submissions int LeetCode
+public:             /// Faster than 100% cpp submissions in LeetCode
     vector<string> findWords(vector<string>& words) {
         vector <string> res;
         string s1 = "qwertyuiop";
